@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Source.iml" filepath="$PROJECT_DIR$/Source.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Audio Trimmer.iml" filepath="$PROJECT_DIR$/Audio Trimmer.iml" group="Audio Trimmer" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Audio Trimmer/app" />
     </modules>
   </component>
 </project>
